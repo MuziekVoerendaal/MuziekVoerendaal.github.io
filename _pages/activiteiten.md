@@ -1,6 +1,8 @@
 ---
 permalink: /activiteiten/
 title: "Activiteiten"
+toc: true
+toc_sticky: true
 ---
 
 # Oud metaal actie in de kernen Kunrade, Voerendaal en Winthagen

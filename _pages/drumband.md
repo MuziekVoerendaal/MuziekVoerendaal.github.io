@@ -11,7 +11,7 @@ Het initiatief voor de oprichting van deze drumband werd in het jaar 1963 door e
 
 Gelukkig waren er in de beginjaren enkele instructeurs die de jonge leden inspireerden, wat de muzikale prestaties steeds ten goede heeft beïnvloed. Na enkele jaren van intensief repeteren groeide het korps uit tot volwassenheid en de resultaten bleven niet uit. Tijdens deelname aan diverse bondsconcoursen en festivals wist de drumband meerdere opmerkelijke resultaten te boeken. Een verzameling veroverde bekers en medailles is hiervan het duidelijke bewijs. Het is vrijwel ondoendlijk om hier alle hoogtepunten in het bestaan aan te dragen.
 
-De drumband anno nu biedt het beeld van een hecht, bloeiend korps met slagvaardige leden. Onder leiding van instructeur Frank Rademakers is er een ommezwaai geweest naar een melodische slagwerkgroep. Hierbij werd het “traditioneel” marcheren niet uit het oog verloren. Het korps bestaat momenteel uit 23 slagwerkers en concerteert in de eerste divisie.
+De drumband anno nu biedt het beeld van een hecht, bloeiend korps met slagvaardige leden. Onder leiding van instructeur Frank Rademakers is er een ommezwaai geweest naar een melodische slagwerkgroep. Hierbij werd het “traditioneel” marcheren niet uit het oog verloren. Het korps bestaat momenteel uit 23 slagwerkers en concerteert onder leiding van Henrico Stevens in de eerste divisie.
 De repetities vinden plaats op zondagochtend van 10.30 uur tot 12.30 uur.
 
 # ERELIJST DRUMBAND (tot 5 juli 2016 ressorterend onder HARMONIE ST. DAVID VOERENDAAL)

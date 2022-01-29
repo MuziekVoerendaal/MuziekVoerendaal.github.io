@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/banners/banner.webp
   actions:
     - label: "Lid worden!"
       url: "mailto:secretariaat@muziekvoerendaal.nl?subject=Ja%2C%20ik%20wil%20lid%20worden!&body=Beste%20Secretaris%2C%0A%0AIk%20ben%20zo%20enthausiast%20geworden%20van%20de%20website%20dat%20ik%20mij%20meteen%20lid%20wil%20maken.%20Ik%20speel%20%7Binstument%7D%20en%20wil%20mij%20graag%20bij%20%7Bgelediging%7D%20aansluiten.%0A%0AMet%20vriendelijke%20groet%2C%0A%0A%7Bvoornaam%20achternaam%7D"

@@ -2,7 +2,16 @@
 permalink: /contact/
 title: "Contact"
 ---
+Onderstaand zijn het Postadres en de repetitie locatie weergegeven. Wij verzoeken u bij voorkeur per e-mail contact op te nemen met ons secretariaat.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Postadres**
+Muziekvereniging Voerendaal
+p/a Keerberg 23 b
+6367 EE Voerendaal
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**Repetitielocatie**
+De Borenburg, HAFA-ruimte 2
+Furenthela 16 6367 TL Voerendaal
+
+**Contact**
+U kunt contact opnemen met [Secretariaat@muziekvoerendaal.nl](mailto:Secretariaat@muziekvoerendaal.nl)

@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
+  - title: "Home"
+    url: /
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Opleiding"
+    url: /opleiding/
+  - title: "Activiteiten"
+    url: /activiteiten/
+  - title: "Vereniging"
+    url: /vereniging/
+  - title: "Geschiedenis"
+    url: /geschiedenis/
+  - title: "Contact"
+    url: /contact/
+  - title: "Webmail"
+    url: https://outlook.office365.com/
+  - title: "SharePoint"
+    url: https://muziekvoerendaal.sharepoint.com/

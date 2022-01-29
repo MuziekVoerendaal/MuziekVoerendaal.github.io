@@ -3,8 +3,6 @@ main:
     url: /
   - title: "Blog"
     url: /posts/
-  - title: "Opleiding"
-    url: /opleiding/
   - title: "Activiteiten"
     url: /activiteiten/
   - title: "Vereniging"

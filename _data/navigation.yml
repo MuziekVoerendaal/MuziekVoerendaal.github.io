@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /posts/
+    url: /Blog/
   - title: "Activiteiten"
     url: /activiteiten/
   - title: "Vereniging"

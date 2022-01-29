@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Muziekvereniging Voerendaal
+title_separator: "|"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Dit is de website van Muziekvereniging Voerendaal.
-  Deze vereniging is ontstaan door de fusie van de Harmonieën St. David en St. Joseph uit Voerendaal.
+  Muziekvereniging Voerendaal is opgericht op 6 juli 2016 en is ontstaan door een fusie van twee Voerendaalse harmonieën:
+  Harmonie Sint David, opgericht in 1907, en Harmonie Sint Joseph, opgericht in 1918.
 twitter_username: username
 github_username: MuziekVoerendaal
 minimal_mistakes_skin: default
@@ -93,7 +94,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true

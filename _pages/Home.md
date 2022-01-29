@@ -41,7 +41,7 @@ feature_row:
     url: /jeugddrumband/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
-  - image_path: /assets/images/groepsfotos/geledingen/klarinetenensemble.webp
+  - image_path: /assets/images/groepsfotos/geledingen/klarinetensemble.webp
     alt: "Groepsfoto klarinetensemble"
     title: "Klarinetensemble"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

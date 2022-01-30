@@ -4,8 +4,9 @@ title: "Activiteiten"
 toc: true
 toc_sticky: true
 ---
+De muziekvereniging zet zich in met diverse activiteiten in de drie kernen Kunrade, Voerendaal en Winthagen. Hieronder leest u welke activiteiten de muziekvereniging uitvoert.
 
-# Oud metaal actie in de kernen Kunrade, Voerendaal en Winthagen
+# Oud metaal actie
 Oude metalen die u niet meer kunt gebruiken halen wij op verzoek iedere 1e zaterdag van de maand bij u op.
 Aangezien we geen milieubelastende voorwerpen mogen afvoeren in onze container, nemen we geen autobanden; alsmede koel- en vrieskasten mee. Deze kunt u gratis inleveren op een RD4 milieupark.
 
@@ -13,9 +14,9 @@ Aanmelden het liefst middels een mail: [ijzer@muziekvoerendaal.nl](mailto:ijzer@
 
 Bellen kan ook op werkdagen tussen 18.00 en 20.00 uur: 045-5729848.
 
-# Papierinzameling in de kernen Kunrade, Voerendaal en Winthagen
+# Papierinzameling
 
-Leden en vrijwilligers van Muziekvereniging Voerendaal halen samen met Rd4 het oud papier en karton op in de kernen Kunrade, Voerendaal en Winthagen.
+Leden en vrijwilligers van Muziekvereniging Voerendaal halen samen met Rd4 het oud papier en karton op.
 
 Vanaf januari 2018 zal dit voor een aantal straten op een ander moment gaan plaatsvinden.
 In de Hogeweg, Hoolstraat, Molenweg, Steinweg, Karstraat, Koekoeksweg, Winthagen, Bergseweg, Kunderkampstraat, Milleveld, Op Gen Hek, Op de Beek en Valkenburgerweg zal het oud papier voortaan op vrijdagavond worden opgehaald. Dit gebeurt voor het eerst op 19 januari 2018.
@@ -30,7 +31,7 @@ Op de Rd4 afvalwijzer staat vermeld op welke ophaaldagen het oud papier en karto
 
 **Wij halen ALLEEN oud papier en karton op! Geen plastic, piepschuim, melk- of sappakken.**
 
-Heeft U vragen over het ophalen van oud papier en karton, dan dient U contact op te nemen met Rd4, telefoon 045-5437100.
+Heeft u vragen over het ophalen van oud papier en karton, dan dient U contact op te nemen met Rd4, telefoon 045-5437100.
 
 ## Ophalers gezocht!
 

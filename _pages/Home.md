@@ -14,42 +14,42 @@ feature_row:
   - image_path: /assets/images/groepsfotos/geledingen/harmonieorkest.webp
     alt: "Groepsfoto harmonieorkest"
     title: "Harmonieorkest"
-    excerpt: "Het orkest is erop gericht muziek te maken die uitdagend is voor de muzikanten en bovendien met plezier kan worden gespeeld."
+    excerpt: "Het harmonieorkest is erop gericht muziek te maken die uitdagend is voor de muzikanten en bovendien met plezier kan worden gespeeld."
     url: /harmonieorkest/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
   - image_path: /assets/images/groepsfotos/geledingen/drumband.webp
     alt: "Groepsfoto drumband"
     title: "Drumband"
-    excerpt: "De drumband is een hecht, bloeiend korps met slagvaardige leden. Onder leiding van instructeur Henrico Stevens"
+    excerpt: "De drumband is een hecht, bloeiend korps met slagvaardige leden. Het is een melodische slagwerkgroep wat ook nog “traditioneel” doet marcheren."
     url: /drumband/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
   - image_path: /assets/images/groepsfotos/geledingen/opleidingsorkest.webp
     alt: "Groepsfoto opleidingsorkest "
     title: "Opleidingsorkest"
-    excerpt: "De jeugd wordt bijgestaan door enkele oudere leden van de muziekvereniging, die binnen het opleidingsorkest als mentor fungeren."
+    excerpt: "Het opleidingsorkest is een laagdrempelige en leuke manier om samen muziek te leren maken en bereid de leerling voor op de latere doorstroming naar het harmonieorkest."
     url: /opleidingsorkest/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
   - image_path: /assets/images/groepsfotos/geledingen/jeugddrumband.webp
     alt: "Groepsfoto jeugddrumband"
     title: "Jeugddrumband"
-    excerpt: "De jeugddrumband heeft sinds de fusie in 2016 een sterke positieve ontwikkeling doorgemaakt, zowel herkenbaar in de groei van het aantal muzikanten als in de kwalitatieve vooruitgang van het orkest."
+    excerpt: "De jeugddrumband is een laagdrempelige en leuke manier om samen muziek te leren maken en bereid de leerling voor op de latere doorstroming naar de drumband."
     url: /jeugddrumband/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
   - image_path: /assets/images/groepsfotos/geledingen/klarinetensemble.webp
     alt: "Groepsfoto klarinetensemble"
     title: "Klarinetensemble"
-    excerpt: "Het ensemble speelt vooral lichte muziek, zowel wereldlijk als kerkelijk, en verzorgt gedurende het jaar meerdere uitvoeringen, vaak op uitnodiging en bij bijzondere gelegenheden."
+    excerpt: "Het ensemble speelt vooral lichte muziek en verzorgt gedurende het jaar meerdere uitvoeringen, vaak op uitnodiging en bij bijzondere gelegenheden."
     url: /klarinetenensemble/
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
   - image_path: /assets/images/banners/achtergrond.webp
     alt: "placeholder image 2"
     title: "Opleiding"
-    excerpt: "Sinds jaar en dag verzorgt Muziekvereniging Voerendaal zelf het muziekonderwijs. Wat Muziekvereniging Voerendaal te bieden heeft aan Muziekonderwijs?"
+    excerpt: "Sinds jaar en dag verzorgt Muziekvereniging Voerendaal zelf het muziekonderwijs. Lees verder om te ontdekken welk Muziekonderwijs wij aanbieden."
     url: "/opleiding/"
     btn_label: "Verder lezen"
     btn_class: "btn--primary"

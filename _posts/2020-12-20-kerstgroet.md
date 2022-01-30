@@ -3,8 +3,8 @@ title: "Stemmen kan vanaf vandaag! Help jij onze vereniging?"
 teaser: "/assets/images/posts/2020/Kerstkaart_voorkant.webp"
 ---
 
-![image-center](https://muziekvoerendaal.github.io/assets/images/posts/2020/Kerstkaart_voorkant.webp){: .align-center}
-![image-center](https://muziekvoerendaal.github.io/assets/images/posts/2020/Kerstkaart_film.webp){: .align-center}
+![image-center](/assets/images/posts/2020/Kerstkaart_voorkant.webp){: .align-center}
+![image-center](/assets/images/posts/2020/Kerstkaart_film.webp){: .align-center}
 
 Bekijk daarnaast ook onze Youtube video!
 

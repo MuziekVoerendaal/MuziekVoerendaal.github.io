@@ -4,7 +4,7 @@ teaser: "/assets/images/posts/2020/1.webp"
 ---
 
 <figure>
-    <a href="https://muziekvoerendaal.github.io/assets/images/posts/2020/1.webp"><img src="https://muziekvoerendaal.github.io/assets/images/posts/2020/1.webp"></a>
+    <a href="/assets/images/posts/2020/1.webp"><img src="/assets/images/posts/2020/1.webp"></a>
 </figure>
 
 Een muzikale familievoorstelling met kinderboekenschrijver en meesterverteller Jacques Vriens, bekend van o.a. zijn (verfilmde) boeken ‘Achtste-groepers huilen niet’, ‘Oorlogsgeheimen’ en ‘Tien Torens Diep’.
@@ -26,5 +26,5 @@ Met medewerking van Bibliotheek Voerendaal, CV de Naate, JCV de Kaatbuurkes, HV 
 **Winactie**
 
 <figure>
-    <a href="https://muziekvoerendaal.github.io/assets/images/posts/2020/2.webp"><img src="https://muziekvoerendaal.github.io/assets/images/posts/2020/2.webp"></a>
+    <a href="/assets/images/posts/2020/2.webp"><img src="/assets/images/posts/2020/2.webp"></a>
 </figure>

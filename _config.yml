@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Harmonie Sint David, opgericht in 1907, en Harmonie Sint Joseph, opgericht in 1918.
 url: "https://muziekvoerendaal.github.io/"
 logo: "/assets/images/banners/logo.webp"
+masthead_title: " "
 teaser: "/assets/images/banners/achtergrond.webp"
 github_username: MuziekVoerendaal
 minimal_mistakes_skin: default

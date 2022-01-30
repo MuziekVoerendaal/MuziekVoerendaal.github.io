@@ -1,7 +1,9 @@
 ---
 title: "Familievoorstelling Lampkapje & De Wolf"
 ---
-{% include figure image_path="/assets/images/posts/1.webp" alt="voorkant flyer." %}
+<figure>
+	<img src="/assets/images/posts/1.webp">
+</figure>
 
 Een muzikale familievoorstelling met kinderboekenschrijver en meesterverteller Jacques Vriens, bekend van o.a. zijn (verfilmde) boeken ‘Achtste-groepers huilen niet’, ‘Oorlogsgeheimen’ en ‘Tien Torens Diep’.
 
@@ -20,4 +22,6 @@ Tickets verkrijgbaar bij CC De Borenburg
 Met medewerking van Bibliotheek Voerendaal, CV de Naate, JCV de Kaatbuurkes, HV Gemenie, RKVV Voerendaal, Toneelvereniging St Laurentius, Schutterij St Sebastianus en Tennis Vereniging Voerendaal.
 
 **Winactie**
-{% include figure image_path="/assets/images/posts/2.webp" alt="Achterkant flyer." %}
+<figure>
+	<img src="/assets/images/posts/2.webp">
+</figure>

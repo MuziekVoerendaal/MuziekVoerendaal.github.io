@@ -2,11 +2,10 @@
 title: "Familievoorstelling Lampkapje & De Wolf"
 teaser: "/assets/images/posts/2020/1.webp"
 ---
-```html
+
 <figure>
-    <a href="/assets/images/posts/2020/1.webp"><img src="/assets/images/posts/2020/1.webp"></a>
+    <a href="https://muziekvoerendaal.github.io/assets/images/posts/2020/1.webp"><img src="https://muziekvoerendaal.github.io/assets/images/posts/2020/1.webp"></a>
 </figure>
-```
 
 Een muzikale familievoorstelling met kinderboekenschrijver en meesterverteller Jacques Vriens, bekend van o.a. zijn (verfilmde) boeken ‘Achtste-groepers huilen niet’, ‘Oorlogsgeheimen’ en ‘Tien Torens Diep’.
 
@@ -25,8 +24,7 @@ Tickets verkrijgbaar bij CC De Borenburg
 Met medewerking van Bibliotheek Voerendaal, CV de Naate, JCV de Kaatbuurkes, HV Gemenie, RKVV Voerendaal, Toneelvereniging St Laurentius, Schutterij St Sebastianus en Tennis Vereniging Voerendaal.
 
 **Winactie**
-```html
+
 <figure>
-    <a href="/assets/images/posts/2020/2.webp"><img src="/assets/images/posts/2020/2.webp"></a>
+    <a href="https://muziekvoerendaal.github.io/assets/images/posts/2020/2.webp"><img src="https://muziekvoerendaal.github.io/assets/images/posts/2020/2.webp"></a>
 </figure>
-```

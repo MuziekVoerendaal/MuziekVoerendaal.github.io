@@ -3,8 +3,10 @@ title: "Stemmen kan vanaf vandaag! Help jij onze vereniging?"
 teaser: "/assets/images/posts/2020/Kerstkaart_voorkant.webp"
 ---
 
-![image-center](/assets/images/posts/2020/Kerstkaart_voorkant.webp){: .align-center}
-![image-center](/assets/images/posts/2020/Kerstkaart_film.webp){: .align-center}
+<figure>
+    <a href="/assets/images/posts/2020/Kerstkaart_voorkant.webp"><img src="/assets/images/posts/2019/Kerstkaart_voorkant.webp"></a>
+    <a href="/assets/images/posts/2020/Kerstkaart_film.webp"><img src="/assets/images/posts/2019/Kerstkaart_film.webp"></a>
+</figure>
 
 Bekijk daarnaast ook onze Youtube video!
 

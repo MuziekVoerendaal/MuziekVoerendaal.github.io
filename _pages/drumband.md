@@ -4,7 +4,7 @@ title: "Drumband"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/geledingen/drumband.webp
+  overlay_image: /assets/images/groepsfotos/geledingen/drumband.webp
 ---
 
 Het initiatief voor de oprichting van deze drumband werd in het jaar 1963 door enkele muziekliefhebbers genomen. Op zondag 26 april 1964 werd de oprichting officieel bekrachtigd door de ontvangst van een compleet drumbandinstrumentarium, aangeboden door het comité van bijstand van de harmonie. Na enkele maanden van hard repeteren kon het korps zich reeds voor het eerst aan de dorpsbewoners tonen en laten horen. Zoals elke boreling, ontkwamen ook zij niet aan gezonde kinderziektes. Succesvolle en mindere tijden volgden elkaar op.

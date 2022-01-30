@@ -4,7 +4,7 @@ title: "Jeugddrumband"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/geledingen/jeugddrumband.webp
+  overlay_image: /assets/images/groepsfotos/geledingen/jeugddrumband.webp
 ---
 De jeugddrumband van Muziekvereniging Voerendaal bestaat op dit moment uit 11 enthousiaste slagwerkers en staat onder leiding van instructeur Stan Beckers.
 

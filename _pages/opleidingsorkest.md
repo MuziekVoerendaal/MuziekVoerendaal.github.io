@@ -4,7 +4,7 @@ title: "Opleidingsorkest"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/geledingen/opleidingsorkest.webp
+  overlay_image: /assets/images/groepsfotos/geledingen/opleidingsorkest.webp
 ---
 Het opleidingsorkest van Muziekvereniging Voerendaal komt voort uit het jeugdorkest van Harmonie St. David uit Voerendaal en bestaat momenteel uit ruim 27 leden, variërend in leeftijd van 9 tot 21 jaar.
 Het orkest staat sinds oktober 2018 onder leiding van dirigent Stan Beckers.

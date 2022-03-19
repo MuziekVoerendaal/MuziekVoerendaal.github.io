@@ -15,3 +15,13 @@ main:
     url: https://outlook.office365.com/
   - title: "SharePoint"
     url: https://muziekvoerendaal.sharepoint.com/
+
+history:
+  - title: Geschiedenis
+    children:
+      - title: "Algemeen"
+        url: /geschiedenis/
+      - title: "Harmonie St. David"
+        url: /geschiedenis/david/
+      - title: "Harmonie St. Joseph"
+        url: /geschiedenis/joseph/

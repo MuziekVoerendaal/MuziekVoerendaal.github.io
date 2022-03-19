@@ -21,3 +21,15 @@ history:
         url: /geschiedenis/david/
       - title: "Harmonie St. Joseph"
         url: /geschiedenis/joseph/
+
+vereniging:
+  - title: Vereniging
+    children:
+      - title: "Algemeen"
+        url: /vereniging/
+      - title: "Bestuur"
+        url: /vereniging/bestuur/
+      - title: "Contributie"
+        url: /vereniging/contributie/
+      - title: "Directie"
+        url: /vereniging/directie/

@@ -75,7 +75,7 @@ Bart van den Hof (1980) begon zijn muzikale loopbaan bij Harmonie St. Caeclia in
 Bart is als solo klarinettist verbonden aan o.a. provinciaal symfonisch blaasorkest Symphonic Impulse, ArkA symfonie orkest Maastricht en het Antwerps begeleidingsorkest. Daarnaast voerde Bart soloconcerten uit met harmonie- en symfonieorkesten en gaf diverse solo- en kamermuziekrecitals. Als docent heeft hij een volwaardige lespraktijk, waarin hij de klarinetopleiding voor een viertal muziekverenigingen verzorgd.
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/image-alignment-150x150.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/stevens.webp){: .align-left}
 
 ## Henrico Stevens, instructeur drumband
 
@@ -91,7 +91,7 @@ Als dirigent heeft Henrico zijn sporen ruim verdiend. Diverse provinciale en/of 
 St. Barbara Leveroy, Eensgezindheid Maasbracht-Beek, Koninklijke Oude Harmonie van Eijsden, Eendracht Dieteren, alsmede met de Koninklijke Fanfare De Vrije Burgers
 Valmeer. Hij verstrekte aan diverse componisten opdrachten, waardoor de slagwerkmuziek verder evalueert en uitbreidt in repertoire en niveau. Als dirigent is Henrico werkzaam bij het Slagwerkensemble van de KOH Eijsden, Muziekgezelschap Juliana Holtum en Percussion Ensemble Weert en de drumband van Muziekvereniging Voerendaal.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/stevens.webp){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/claessens.webp){: .align-right}
 
 ## Jacques Claessens, dirigent harmonieorkest
 

@@ -11,10 +11,6 @@ main:
     url: /geschiedenis/
   - title: "Contact"
     url: /contact/
-  - title: "Webmail"
-    url: https://outlook.office365.com/
-  - title: "SharePoint"
-    url: https://muziekvoerendaal.sharepoint.com/
 
 history:
   - title: Geschiedenis

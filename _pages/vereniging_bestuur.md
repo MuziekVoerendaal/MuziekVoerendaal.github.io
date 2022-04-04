@@ -8,11 +8,10 @@ sidebar:
 
 ## Dagelijksbestuur Muziekvereniging Voerendaal
 * Voorzitter            : dhr. Erik Keulers
-* Secretaris           : TBD
+* Secretaris           : Mw. Josta Heuts-Krijgsman
 * Penningmeester : dhr. Jean Mahr
 
 ## Overige bestuursleden
-* Mw. Josta Heuts-Krijgsman
 * Mw. Chantal Vankan-Pluijmen
 * Mw. Judith Lambrichs
 * Dhr. Wiel van Dinther

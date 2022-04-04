@@ -5,7 +5,6 @@ sidebar:
   nav: "vereniging"
 ---
 
-# Oprichting 
 Muziekvereniging Voerendaal is opgericht op 7 juli 2016 en is ontstaan door een fusie van de Voerendaalse harmonieën Sint David, opgericht in 1907, en Sint Joseph, opgericht in 1918.
 
 Beide verenigingen bloeiden op in de tijden dat de mijnen hun rook nog uitstootten over onze regio.

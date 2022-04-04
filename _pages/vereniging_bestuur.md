@@ -4,7 +4,6 @@ title: "Bestuur"
 sidebar:
   nav: "vereniging"
 ---
-# Bestuur
 
 ## Dagelijksbestuur Muziekvereniging Voerendaal
 * Voorzitter            : dhr. Erik Keulers

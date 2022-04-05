@@ -23,10 +23,15 @@ sidebar:
 * Dhr. Pierre Eurlings
 
 # Erebestuur Muziekvereniging Voerendaal
-Beschermheer en voorzitter: dhr. P.Eurlings
-Secretaris: dhr. R. Costongs
-2de secretaris: dhr. H. Kleinveld
-Penningmeester: dhr. M. Wijts
 
-**Sponsorclub Erebestuur**
+<figure>
+    <a href="/assets/images/groepsfotos/bestuur/Erebestuur_Groepsfoto.webp"><img src="/assets/images/groepsfotos/bestuur/Erebestuur_Groepsfoto.webp"></a>
+</figure>
+
+* Beschermheer en voorzitter: dhr. P.Eurlings
+* Secretaris: dhr. R. Costongs
+* 2de secretaris: dhr. H. Kleinveld
+* Penningmeester: dhr. M. Wijts
+
+## Sponsorclub Erebestuur
 Rekeningnummer NL43RABO0154809535 t.n.v. Stichting Erecomité Muziekvereniging Voerendaal

@@ -11,7 +11,7 @@ Hieronder leest u een korte introductie over de dirigenten en instructeurs van M
 
 ## Bart van den Hof, dirigent klarinetensemble
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/hof.webp){: .align-right}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/hof.webp){: .align-center}
 
 Bart van den Hof (1980) begon zijn muzikale loopbaan bij Harmonie St. Caeclia in Geulle. Na het VWO studeerde hij klarinet aan het conservatorium van Maastricht bij de docenten Jan Cober, Léon Bosch en Arno Piters. Deze studie sloot hij af met de diploma's uitvoerend en docerend musicus.
  
@@ -19,7 +19,7 @@ Bart is als solo klarinettist verbonden aan o.a. provinciaal symfonisch blaasork
 
 ## Henrico Stevens, instructeur drumband
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/stevens.webp){: .align-left}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/stevens.webp){: .align-center}
 
 Henrico Stevens kreeg op 7 jarige leeftijd de eerste muzieklessen van zijn vader. Na op de Muziekschool van Beek les te hebben gevolgd bij Jo Meys, studeerde hij aan het Maastrichts Conservatorium bij Pieter Jansen en Werner Otten. In Keulen volgde hij enkele jaren les bij Georg Breiern volgde masterclasses en privé lessen bij diverse bekende paukenisten en slagwerkers. Tijdens zijn studieperiode was Henrico lid van het Nationaal Jeugd Orkest. Als remplaçant werkte hij bij diverse professionele orkesten en ensembles. Hier werkte hij met diverse gerenommeerde dirigenten. Met deze orkesten werd naast de grote concertzalen in Nederland ook het buitenland aangedaan. Zo concerteerde Henrico o.a. in Duitsland, Frankrijk, Italië, Oostenrijk,
 Spanje, Hongarije, Estland, Wales, Slovenië, België, Luxemburg en Zwitserland.
@@ -34,8 +34,7 @@ St. Barbara Leveroy, Eensgezindheid Maasbracht-Beek, Koninklijke Oude Harmonie v
 Valmeer. Hij verstrekte aan diverse componisten opdrachten, waardoor de slagwerkmuziek verder evalueert en uitbreidt in repertoire en niveau. Als dirigent is Henrico werkzaam bij het Slagwerkensemble van de KOH Eijsden, Muziekgezelschap Juliana Holtum en Percussion Ensemble Weert en de drumband van Muziekvereniging Voerendaal.
 
 ## Jacques Claessens, dirigent harmonieorkest
-
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/claessens.webp){: .align-right}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/claessens.webp){: .align-center}
 
 Jacques Claessens (1956) studeerde aan het Conservatorium van Maastricht en behaalde de diploma’s van AMV (1979) en saxofoon (1978) bij Norbert Nozy. In 1981 studeerde hij af als uitvoerend musicus saxofoon. Aansluitend behaalde hij in 1982 het diploma HaFa-directie bij Piet Stalmeier. Van 1986 tot 1988 studeerde hij aan het ArtEZ Conservatorium te Enschede bij Gert Buitenhuis en behaalde hij in 1988 het diploma U.M. HaFa-directie. Verder volgde Jacques nog lessen bij Lucas Vis en Jan Cober.
 
@@ -45,7 +44,7 @@ Van 1998 tot juli 2012 was hij directeur van de muziekschool te Kinrooi (B). Mom
 
 ## Jörgen Backus, Dirigent Opleidingsorkest
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/backus.webp){: .align-left}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/backus.webp){: .align-center}
 
 Jörgen Backus (1979) begon op 9-jarige leeftijd met muzieklessen bij Louis Hensgens en Hans Breuls. Tot 2002 speelde hij bugel bij Société Saint Martin Fanfare de Stein. In deze tijd speelde hij ook trompet bij een Limburgstalige feestband, waar hij de overstap maakte naar groter koper: ventieltrombone en tenorhorn. Later kwam daar ook nog zang en toetsenwerk bij, waarvoor hij lessen volgde bij Leon Packbier. Nadat zijn oudste dochter ervoor koos klarinet te gaan spelen bij de lokale harmonie, besloot Jörgen in 2015 ook weer terug te keren in de HaFa-wereld en wel op bastuba. In eerste instantie bij Harmonie Sint Joseph Berg aan de Maas en daarna (ook) weer bij Société St. Martin. Ook speelt hij regelmatig mee met Koper Ensemble Stein, in verschillende projectorkesten en play ins. Daarnaast is hij regelmatig actief bij philharmonie zuidnederland, waar hij diverse educatieprojecten begeleidt en ondersteunt. 
  

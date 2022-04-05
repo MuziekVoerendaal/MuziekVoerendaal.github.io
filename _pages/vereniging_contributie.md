@@ -4,8 +4,7 @@ title: "Contributie"
 sidebar:
   nav: "vereniging"
 ---
-# Kosten lidmaatschap en muziekonderwijs
-## Contributie
+
 Alle leden betalen € 10,00 contributie per maand. De contributie wordt voldaan middels een af te geven machtiging.
 Bank: Rabobank Voerendaal  contributierek. NL32RABO 0154801100.
 

@@ -11,7 +11,7 @@ Blablabla
 # Harmonieorkest
 
 <figure>
-    <a href="/assets/images/groepfotos/geschiedenis/david/Orkest_Historie_Groepsfoto.webp"><img src="/assets/images/groepfotos/geschiedenis/david/Orkest_Historie_Groepsfoto.webp"></a>
+    <a href="/assets/images/groepsfotos/geschiedenis/david/Orkest_Historie_Groepsfoto.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Orkest_Historie_Groepsfoto.webp"></a>
 </figure>
 
 De oorsprong van Harmonie St. David Voerendaal is gelegen in de initiatiefname van enkele muziekliefhebbers tot oprichting van een zangvereniging. De oprichting van deze zangvereniging ging in het jaar 1902 van start met een 30-tal leden onder de naam “Vriendenkring”.Het gemis van blaasmuziek werd in het landelijke Voerendaal van die tijd echter ieder jaar in sterke mate gevoeld. Uit dezelfde “Vriendenkring” ontsproot dan ook na 5 jaar de gedachte het bestaande zanggezelschap om te vormen tot een muziekkorps.
@@ -44,7 +44,7 @@ De harmonie, waarin veel aandacht wordt gegeven aan de jeugd, bestaat momenteel 
 # Drumband
 
 <figure>
-    <a href="/assets/images/groepfotos/geschiedenis/david/Drumband_Historie_Groepsfoto.webp"><img src="/assets/images/groepfotos/geschiedenis/david/Drumband_Historie_Groepsfoto.webp"></a>
+    <a href="/assets/images/groepsfotos/geschiedenis/david/Drumband_Historie_Groepsfoto.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Drumband_Historie_Groepsfoto.webp"></a>
 </figure>
 
 De oprichting van deze drumband ging in het jaar 1963 van start door initiatiefname van enkele muziekliefhebbers. Op zondag 26 april 1964 werd de oprichting officieel bekrachtigd door het ontvangen van een compleet drumbandinstrumentarium, aangeboden door het comité van bijstand van de harmonie. Na enkele maanden van hard repeteren kon het korps zich reeds voor het eerst aan de dorpsbewoners tonen en laten horen. Zoals elke boreling ontkwamen ook zij niet aan de gezonde kinderziektes. Succesvolle en mindere tijden volgden elkaar op.
@@ -350,7 +350,7 @@ Enkele herinneringen:
 ’s Avonds na de gezamenlijke warme maaltijd werd er een gelegenheids-David-orkest gevormd onder leiding van Steven Walker en met als stuwende kracht Peter Kokkelkoren. Tijdens het optreden stond het hele hotel met al zijn gasten op zijn kop!  Ook de optocht in Lloret de Mar was een groot succes, met vele vakantiegangers als toeschouwer. Verder waren de concerten een groot succes. Vooral met het spelen van het Catalaanse Volkslied waren de Catalanen in hun nopjes en zongen uit volle borst mee.
 
 <figure>
-    <a href="/assets/images/groepfotos/geschiedenis/david/David_Loret.webp"><img src="/assets/images/groepfotos/geschiedenis/david/David_Loret.webp"></a>
+    <a href="/assets/images/groepsfotos/geschiedenis/david/David_Loret.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/David_Loret.webp"></a>
 </figure>
 
 Uiteraard was het bezoek aan de fantastische stad Barcelona een van de vele hoogtepunten, waarbij vooral het voetbalstadion van de F.C. Barcelona indruk maakte. De voetballiefhebbers hebben kunnen genieten van de Europacupwedstrijd tussen  F.C. Barcelona (met als trainer Johan Cruyff) en Rapid Wien. Samen met ongeveer 90.000 toeschouwers werd een geweldige wedstrijd beleefd, die door Barcelona met 3-1 werd gewonnen met één doelpunt van Ronald Koeman.
@@ -420,7 +420,7 @@ In Kunrade trok in 1982 de eerste processie uit ter ere van het 25 jarig bestaan
 Dit jaar St. David dus voor de honderdste keer!
 
 <figure>
-    <a href="/assets/images/groepfotos/geschiedenis/david/Logo_100_jaar.webp"><img src="/assets/images/groepfotos/geschiedenis/david/Logo_100_jaar.webp"></a>
+    <a href="/assets/images/groepsfotos/geschiedenis/david/Logo_100_jaar.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Logo_100_jaar.webp"></a>
 </figure>
 
 # 50 jaar drumband
@@ -448,5 +448,5 @@ Frans Sieben Memorial Plaquette: Drumband Les Amis Reunis Ransdaal
 Bij deze willen wij graag alle deelnemers aan het districtsfestival en alle vrijwilligers en sponsoren die dit fantastische jubileumjaar mogelijk hebben gemaakt van harte bedanken! Het was top!
 
 <figure>
-    <a href="/assets/images/groepfotos/geschiedenis/david/Music.webp"><img src="/assets/images/groepfotos/geschiedenis/david/Music.webp"></a>
+    <a href="/assets/images/groepsfotos/geschiedenis/david/Music.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Music.webp"></a>
 </figure>

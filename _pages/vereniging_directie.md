@@ -6,22 +6,20 @@ toc_sticky: true
 sidebar:
   nav: "vereniging"
 ---
-# Dirigenten en instructeurs
 
-Hieronder leest u een korte introductie van de dirigenten en instructeurs.
-
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/hof.webp){: .align-right}
+Hieronder leest u een korte introductie over de dirigenten en instructeurs van MuziekVereniging Voerendaal.
 
 ## Bart van den Hof, dirigent klarinetensemble
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/hof.webp){: .align-right}
 
 Bart van den Hof (1980) begon zijn muzikale loopbaan bij Harmonie St. Caeclia in Geulle. Na het VWO studeerde hij klarinet aan het conservatorium van Maastricht bij de docenten Jan Cober, Léon Bosch en Arno Piters. Deze studie sloot hij af met de diploma's uitvoerend en docerend musicus.
  
 Bart is als solo klarinettist verbonden aan o.a. provinciaal symfonisch blaasorkest Symphonic Impulse, ArkA symfonie orkest Maastricht en het Antwerps begeleidingsorkest. Daarnaast voerde Bart soloconcerten uit met harmonie- en symfonieorkesten en gaf diverse solo- en kamermuziekrecitals. Als docent heeft hij een volwaardige lespraktijk, waarin hij de klarinetopleiding voor een viertal muziekverenigingen verzorgd.
 
+## Henrico Stevens, instructeur drumband
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/stevens.webp){: .align-left}
-
-## Henrico Stevens, instructeur drumband
 
 Henrico Stevens kreeg op 7 jarige leeftijd de eerste muzieklessen van zijn vader. Na op de Muziekschool van Beek les te hebben gevolgd bij Jo Meys, studeerde hij aan het Maastrichts Conservatorium bij Pieter Jansen en Werner Otten. In Keulen volgde hij enkele jaren les bij Georg Breiern volgde masterclasses en privé lessen bij diverse bekende paukenisten en slagwerkers. Tijdens zijn studieperiode was Henrico lid van het Nationaal Jeugd Orkest. Als remplaçant werkte hij bij diverse professionele orkesten en ensembles. Hier werkte hij met diverse gerenommeerde dirigenten. Met deze orkesten werd naast de grote concertzalen in Nederland ook het buitenland aangedaan. Zo concerteerde Henrico o.a. in Duitsland, Frankrijk, Italië, Oostenrijk,
 Spanje, Hongarije, Estland, Wales, Slovenië, België, Luxemburg en Zwitserland.
@@ -35,9 +33,9 @@ Als dirigent heeft Henrico zijn sporen ruim verdiend. Diverse provinciale en/of 
 St. Barbara Leveroy, Eensgezindheid Maasbracht-Beek, Koninklijke Oude Harmonie van Eijsden, Eendracht Dieteren, alsmede met de Koninklijke Fanfare De Vrije Burgers
 Valmeer. Hij verstrekte aan diverse componisten opdrachten, waardoor de slagwerkmuziek verder evalueert en uitbreidt in repertoire en niveau. Als dirigent is Henrico werkzaam bij het Slagwerkensemble van de KOH Eijsden, Muziekgezelschap Juliana Holtum en Percussion Ensemble Weert en de drumband van Muziekvereniging Voerendaal.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/claessens.webp){: .align-right}
-
 ## Jacques Claessens, dirigent harmonieorkest
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/claessens.webp){: .align-right}
 
 Jacques Claessens (1956) studeerde aan het Conservatorium van Maastricht en behaalde de diploma’s van AMV (1979) en saxofoon (1978) bij Norbert Nozy. In 1981 studeerde hij af als uitvoerend musicus saxofoon. Aansluitend behaalde hij in 1982 het diploma HaFa-directie bij Piet Stalmeier. Van 1986 tot 1988 studeerde hij aan het ArtEZ Conservatorium te Enschede bij Gert Buitenhuis en behaalde hij in 1988 het diploma U.M. HaFa-directie. Verder volgde Jacques nog lessen bij Lucas Vis en Jan Cober.
 
@@ -45,9 +43,9 @@ Vanaf 1982 tot september 2006 was hij als alt- en sopraansaxofonist verbonden aa
 
 Van 1998 tot juli 2012 was hij directeur van de muziekschool te Kinrooi (B). Momenteel is Jacques als dirigent werkzaam bij Harmonie ” St.Agnes” Bunde (sinds 12 november 1979), Harmonie Sempre Avanti Tegelen (sinds 2000), de Koninklijke OudeHarmonie van Eijsden (sinds 2010) en Harmonie L’Union Fraternelle uit Veldhoven-Zeelst(sinds november 2017). Daarnaast is hij geregeld actief als gastdirigent of repetitor bij andereorkesten, examinator en jurylid.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/backus.webp){: .align-left}
-
 ## Jörgen Backus, Dirigent Opleidingsorkest
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/dirigenten/backus.webp){: .align-left}
 
 Jörgen Backus (1979) begon op 9-jarige leeftijd met muzieklessen bij Louis Hensgens en Hans Breuls. Tot 2002 speelde hij bugel bij Société Saint Martin Fanfare de Stein. In deze tijd speelde hij ook trompet bij een Limburgstalige feestband, waar hij de overstap maakte naar groter koper: ventieltrombone en tenorhorn. Later kwam daar ook nog zang en toetsenwerk bij, waarvoor hij lessen volgde bij Leon Packbier. Nadat zijn oudste dochter ervoor koos klarinet te gaan spelen bij de lokale harmonie, besloot Jörgen in 2015 ook weer terug te keren in de HaFa-wereld en wel op bastuba. In eerste instantie bij Harmonie Sint Joseph Berg aan de Maas en daarna (ook) weer bij Société St. Martin. Ook speelt hij regelmatig mee met Koper Ensemble Stein, in verschillende projectorkesten en play ins. Daarnaast is hij regelmatig actief bij philharmonie zuidnederland, waar hij diverse educatieprojecten begeleidt en ondersteunt. 
  

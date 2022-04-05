@@ -24,9 +24,7 @@ sidebar:
 
 # Erebestuur Muziekvereniging Voerendaal
 
-<figure>
-    <a href="/assets/images/groepsfotos/bestuur/Erebestuur_Groepsfoto.webp"><img src="/assets/images/groepsfotos/bestuur/Erebestuur_Groepsfoto.webp"></a>
-</figure>
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/groepsfotos/bestuur/Erebestuur_Groepsfoto.webp){: .align-center}
 
 * Beschermheer en voorzitter: dhr. P.Eurlings
 * Secretaris: dhr. R. Costongs

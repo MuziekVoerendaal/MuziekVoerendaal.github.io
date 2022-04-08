@@ -6,7 +6,8 @@ toc_sticky: true
 sidebar:
   nav: "history"
 ---
-Blablabla
+
+Klik in het menu op de gewenste titel om direct naar het aangegeven onderdeel te springen, of lees alle verhalen rustig door.
 
 # Harmonieorkest
 
@@ -85,8 +86,6 @@ ERELIJST DRUMBAND ( tot 5 juli 2016 resorterend onder HARMONIE ST. DAVID VOEREND
 
 # 100 jaar harmonie
 Onderstaande geschiedenisverhalen zijn geschreven door Eugene van Wersch ter gelegenheid van het 100 jarig bestaan van Harmonie St. David in 2007.
-
-Klik op een van de links hier rechts naast om direct naar de aangegeven periode te springen, of lees alle verhalen rustig door.
 
 ## Geschiedenis voor en tijdens de oorlog van 1940 – 1945
 

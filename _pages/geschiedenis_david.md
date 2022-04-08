@@ -418,9 +418,7 @@ In Kunrade trok in 1982 de eerste processie uit ter ere van het 25 jarig bestaan
 
 Dit jaar St. David dus voor de honderdste keer!
 
-<figure>
-    <a href="/assets/images/groepsfotos/geschiedenis/david/Logo_100_jaar.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Logo_100_jaar.webp"></a>
-</figure>
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/groepsfotos/geschiedenis/david/Logo_100_jaar.webp){: .align-center}
 
 # 50 jaar drumband
 

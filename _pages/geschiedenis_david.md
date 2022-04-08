@@ -21,21 +21,21 @@ Op 21 juni 1907 werd dan ook de “Fanfare St. David” opgericht. De fanfare be
 
 De grote doorbraak als harmoniegezelschap vond plaats in de naoorlogse jaren. Na een aanvankelijke stilstand bracht uitbreiding en verjonging van het bestuur nieuwe impulsen in de vereniging, die tot heden ten dage voldoende kracht en energie bleken te bezitten, getuigen de achtereenvolgende successen die werden behaald. Een imponerende lijst van prijzen, promoties en kampioenschappen is hiervan het bewijs.
 
-- 1963 afdeling Uitmuntendheid 1e prijs met promotie, Bocholtz
-- 1963 afdeling Uitmuntendheid Landskampioen, Valkenburg
-- 1966 Ere-afdeling 1e prijs, Bocholtz
-- 1969 Ere-afdeling 1e prijs met lof, Tessenderlo
-- 1969 Ere-afdeling 1e prijs, Herten
-- 1975 Ere-afdeling 1e prijs met promotie, Ransdaal
-- 1976 Ere-afdeling Landskampioen, Kerkrade
-- 1981 afdeling Superieur 1e prijs, Puth-Schinnen
-- 1986 afdeling Superieur 1e prijs, Kerkrade
-- 1991 afdeling Superieur 1e prijs, Maaspoort Venlo
-- 1996 afdeling Superieur 1e prijs met lof, Maaspoort Venlo, Limburgs Kampioen
-- 1997 afdeling Superieur deelname Nederlands Kampioenschap, 3e plaats
-- 2001 afdeling Superieur 1e prijs met lof, Maaspoort Venlo
-- 2007 divisie 1 harmonie (voorheen afdeling Superieur) , 1e prijs, Oranjerie Roermond
-- 2012 divisie 1 harmonie, 1e prijs, Oranjerie Roermond
+- **1963** afdeling Uitmuntendheid 1e prijs met promotie, Bocholtz
+- **1963** afdeling Uitmuntendheid Landskampioen, Valkenburg
+- **1966** Ere-afdeling 1e prijs, Bocholtz
+- **1969** Ere-afdeling 1e prijs met lof, Tessenderlo
+- **1969** Ere-afdeling 1e prijs, Herten
+- **1975** Ere-afdeling 1e prijs met promotie, Ransdaal
+- **1976** Ere-afdeling Landskampioen, Kerkrade
+- **1981** afdeling Superieur 1e prijs, Puth-Schinnen
+- **1986** afdeling Superieur 1e prijs, Kerkrade
+- **1991** afdeling Superieur 1e prijs, Maaspoort Venlo
+- **1996** afdeling Superieur 1e prijs met lof, Maaspoort Venlo, Limburgs Kampioen
+- **1997** afdeling Superieur deelname Nederlands Kampioenschap, 3e plaats
+- **2001** afdeling Superieur 1e prijs met lof, Maaspoort Venlo
+- **2007** divisie 1 harmonie (voorheen afdeling Superieur) , 1e prijs, Oranjerie Roermond
+- **2012** divisie 1 harmonie, 1e prijs, Oranjerie Roermond
 
 Ook in de uiterlijke verschijningsvorm is de harmonie met de tijd meegegaan. In 1963 werd het korps uitgebreid met een drumband.
 Dit van St. David deel uitmakend drumbandkorps is in de Gemeente Voerendaal niet meer weg te denken. Een zeldzaam mooi gegroeide vriendschap van deze leden staat borg voor het bestaan en voortbestaan van deze afdeling in het harmoniekorps.
@@ -54,35 +54,35 @@ Gelukkig waren er enkele instructeurs in de beginjaren, die de jonge leden inspi
 
 De drumband anno nu biedt het beeld van een hecht, bloeiend korps met slagvaardige leden. Onder de leiding van oud instructeur Frank Rademakers is er een ommezwaai geweest naar een melodische slagwerkgroep. Hierbij hebben ze het “traditioneel” marcheren niet uit het oog verloren. Het korps bestaat momenteel uit 25 slagwerkers en concerteert in de eerste divisie. Het korps repeteert op de zondagochtend van 10.30 uur tot 12.30 uur.
 
-ERELIJST DRUMBAND ( tot 5 juli 2016 resorterend onder HARMONIE ST. DAVID VOERENDAAL)
-- 1964 afdeling C2 1e prijzenEijs-Wittem
-- 1964 afdeling C1e prijs met lof, hoogste aantal puntenAbdissenbosch
-- 1964 afdeling B2 1e prijzenSimpelveld
-- 1968 1e prijs met lofBleijerheide
-- 1969 1e prijsTessenderlo
-- 1969 jeugdafdelingLimburgs KampioenKerkrade
-- 1975 3e divisie1e prijs Swalmen
-- 1976 3e divisie1e prijs met lof en promotie Heerlen
-- 1976 3e divisieLandskampioenKerkrade
-- 1978 3e divisie2e prijs W.M.C.Kerkrade
-- 1980 2e divisie1e prijs met promotie Schinveld
-- 1980 2e divisieLimburgs Kampioen Nederweert
-- 1981 2e divisie1e prijs met promotie Schinveld
-- 1985 1e divisie2e prijs Ubachsberg
-- 1990 1e divisie1e prijs met lof (326,5 punten) Ubachsberg en promotie naar Ere afdeling
-- 1990 1e divisie1e prijs met lof (328 punten) Reuver, Limburgs Kampioen
-- 1991 1e divisie1e prijs met lof (324 punten) Noordwykerhout, Nederlands Kampioen
-- 1993 1e divisie1e prijs W.M.C. (82,9 punten) Kerkrade. Hoogste aantal punten 1e div. sectie Aa
-- 1994 Ere afdeling1e prijs (83,2 punten) Hamont (B)
-- 1997 1e divisie1e prijs W.M.C. (81,7 punten) Kerkrade
-- 2002 2e divisie A21e prijs met promotie (87,33 punten) Kerkrade
-- 2002 2e divisie A21e prijs met lof (90,33 punten)Heythuysen, Limburgs Kampioen
-- 2003 2e divisie 1e prijs met lof (90,83 punten) Nederlands Kampioen te Nederweert.
-- 2005 Star Division Gouden Medaille W.M.C. (82,58 punten) te Kerkrade
-- 2008 2e divisie 1e prijs met lof en promotie (90.87) Brunssum
-- 2009 2e divisie 1e prijs met lof (93,67) Nederlands Kampioen te de Lutte
-- 2014 2e divisie 1e prijs met promotie (89,09) Limburgs Kampioen te Nederweert
-- 2015 2e divisie 1e prijs met promotie (87,47) Nederlands Kampioen te Waalwijk
+## Erelijst drumband
+- **1964** afdeling C2 1e prijzenEijs-Wittem
+- **1964** afdeling C1e prijs met lof, hoogste aantal puntenAbdissenbosch
+- **1964** afdeling B2 1e prijzenSimpelveld
+- **1968** 1e prijs met lofBleijerheide
+- **1969** 1e prijsTessenderlo
+- **1969** jeugdafdelingLimburgs KampioenKerkrade
+- **1975** 3e divisie1e prijs Swalmen
+- **1976** 3e divisie1e prijs met lof en promotie Heerlen
+- **1976** 3e divisieLandskampioenKerkrade
+- **1978** 3e divisie2e prijs W.M.C.Kerkrade
+- **1980** 2e divisie1e prijs met promotie Schinveld
+- **1980** 2e divisieLimburgs Kampioen Nederweert
+- **1981** 2e divisie1e prijs met promotie Schinveld
+- **1985** 1e divisie2e prijs Ubachsberg
+- **1990** 1e divisie1e prijs met lof (326,5 punten) Ubachsberg en promotie naar Ere afdeling
+- **1990** 1e divisie1e prijs met lof (328 punten) Reuver, Limburgs Kampioen
+- **1991** 1e divisie1e prijs met lof (324 punten) Noordwykerhout, Nederlands Kampioen
+- **1993** 1e divisie1e prijs W.M.C. (82,9 punten) Kerkrade. Hoogste aantal punten 1e div. sectie Aa
+- **1994** Ere afdeling1e prijs (83,2 punten) Hamont (B)
+- **1997** 1e divisie1e prijs W.M.C. (81,7 punten) Kerkrade
+- **2002** 2e divisie A21e prijs met promotie (87,33 punten) Kerkrade
+- **2002** 2e divisie A21e prijs met lof (90,33 punten)Heythuysen, Limburgs Kampioen
+- **2003** 2e divisie 1e prijs met lof (90,83 punten) Nederlands Kampioen te Nederweert.
+- **2005** Star Division Gouden Medaille W.M.C. (82,58 punten) te Kerkrade
+- **2008** 2e divisie 1e prijs met lof en promotie (90.87) Brunssum
+- **2009** 2e divisie 1e prijs met lof (93,67) Nederlands Kampioen te de Lutte
+- **2014** 2e divisie 1e prijs met promotie (89,09) Limburgs Kampioen te Nederweert
+- **2015** 2e divisie 1e prijs met promotie (87,47) Nederlands Kampioen te Waalwijk
 
 # 100 jaar harmonie
 Onderstaande geschiedenisverhalen zijn geschreven door Eugene van Wersch ter gelegenheid van het 100 jarig bestaan van Harmonie St. David in 2007.

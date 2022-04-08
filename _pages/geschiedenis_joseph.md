@@ -4,7 +4,6 @@ title: "St. Joseph"
 sidebar:
   nav: "history"
 ---
-# Harmonie St. Joseph
 
 Harmonie St. Joseph ontstond in mei 1918 uit een initiatief van leden van de toenmalige R.K.Werkliedenbond.
 De patroonheilige van de R.K.Werkliedenbond, de heilige Jozef (toen nog Joseph) werd door de twintig eerste leden overgenomen als naamgever van de nieuwe vereniging.

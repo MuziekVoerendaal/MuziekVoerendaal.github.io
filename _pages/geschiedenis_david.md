@@ -446,6 +446,4 @@ Frans Sieben Memorial Plaquette: Drumband Les Amis Reunis Ransdaal
 
 Bij deze willen wij graag alle deelnemers aan het districtsfestival en alle vrijwilligers en sponsoren die dit fantastische jubileumjaar mogelijk hebben gemaakt van harte bedanken! Het was top!
 
-<figure>
-    <a href="/assets/images/groepsfotos/geschiedenis/david/Music.webp"><img src="/assets/images/groepsfotos/geschiedenis/david/Music.webp"></a>
-</figure>
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/groepsfotos/geschiedenis/david/Music.webp){: .align-right}

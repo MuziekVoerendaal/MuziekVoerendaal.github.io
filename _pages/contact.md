@@ -6,13 +6,13 @@ Onderstaand zijn het Postadres en de repetitie locatie weergegeven. Wij verzoeke
 
 **Postadres**
 
-Muziekvereniging Voerendaal
-p/a Keerberg 23 b
+Muziekvereniging Voerendaal<br/>
+p/a Keerberg 23 b<br/>
 6367 EE Voerendaal
 
 **Repetitielocatie**
 
-De Borenburg, HAFA-ruimte 2
+De Borenburg, HAFA-ruimte 2<br/>
 Furenthela 16 6367 TL Voerendaal
 
 **Contact**

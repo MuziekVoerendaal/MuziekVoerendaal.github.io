@@ -53,10 +53,16 @@ feature_row:
     url: "/opleiding/"
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
-sidebar:
-  - title: "Agenda"
-    text: "object1"
-    text: "Object2"
+feature_row2:
+  - image_path: /assets/images/other/calendar.jpg
+    alt: "Iphone with calendar app open"
+    title: "Agenda"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Verder lezen"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}

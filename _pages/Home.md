@@ -53,6 +53,10 @@ feature_row:
     url: "/opleiding/"
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
+sidebar:
+  - title: "Agenda"
+    text: "object1"
+    text: "Object2"
 ---
 
 {% include feature_row %}

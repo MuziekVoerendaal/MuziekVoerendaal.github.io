@@ -57,8 +57,8 @@ feature_row2:
   - image_path: /assets/images/other/calendar.jpg
     alt: "Iphone with calendar app open"
     title: "Agenda"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'Gedurende het jaar hebben wij ook meerdere leuke activiteiten op de agenda staan. Klik snel door om te lezen waar u ons kunt aanschouwen voor dit jaar.'
+    url: "/agenda/"
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
 ---

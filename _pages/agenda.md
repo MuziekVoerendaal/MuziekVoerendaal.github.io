@@ -1,6 +1,10 @@
 ---
 permalink: /agenda/
 title: "Agenda"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/other/calendar.jpg
 ---
 Hieronder een overzicht van alle activiteiten welke het komende jaar op de agenda staan. Houd ons nieuwsblog in de gaten voor meer informatie met betrekking tot het eerstvolgende activiteit.
 

@@ -1,6 +1,6 @@
 ---
 permalink: /agenda/
-title: "Agenada"
+title: "Agenda"
 ---
 Hieronder een overzicht van alle activiteiten welke het komende jaar op de agenda staan. Houd ons nieuwsblog in de gaten voor meer informatie met betrekking tot het eerstvolgende activiteit.
 

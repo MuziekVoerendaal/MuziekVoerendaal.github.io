@@ -54,7 +54,7 @@ feature_row:
     btn_label: "Verder lezen"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/other/calendar.jpg
+  - image_path: /assets/images/other/calendar.webp
     alt: "Iphone with calendar app open"
     title: "Agenda"
     excerpt: 'Gedurende het jaar hebben wij ook meerdere leuke activiteiten op de agenda staan. Klik snel door om te lezen waar u ons kunt aanschouwen voor dit jaar.'

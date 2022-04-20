@@ -7,8 +7,8 @@ Onderstaand zijn het Postadres en de repetitie locatie weergegeven. Wij verzoeke
 **Postadres**
 
 Muziekvereniging Voerendaal<br/>
-p/a Keerberg 23 b<br/>
-6367 EE Voerendaal
+p/a Kunostraat 31<br/>
+6367 CS Voerendaal
 
 **Repetitielocatie**
 
